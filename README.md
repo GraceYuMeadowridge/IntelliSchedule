@@ -6,8 +6,6 @@
 - Devpost Description
 - Pitch Deck (Google Slides)
 - Wireframes/mockups
-- Link to Github Repo (optional for Idea Track)
-- CAD/blueprints for physical device (just us)
 - Diagrams for Machine Learning algo (just us)
 
 ### Criteria (General Criteria + Idea Track):
